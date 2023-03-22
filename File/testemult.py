@@ -1,4 +1,6 @@
+# Importação da biblioteca pytest
 import pytest
+# importação das funções da biblioteca criada para verificação de multimos "Verificanum"
 from verificanum import multiplos_ambos, multiplos_vazio, multiplos5, multiplos7
 
 
