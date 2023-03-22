@@ -1,7 +1,7 @@
 """Criação das funções responsáveis pela verificação. A função retornar se os números inseridos pelo usuário correspondem ou não
 a serem multiplos de 7 ou 5 """
 
-# Função ere retonar multiplos de 5 e 7
+# Função ere retona multiplos de 5 e 7
 def multiplos_ambos():
     
     try:
@@ -20,6 +20,7 @@ def multiplos_ambos():
         Por favor, digite um número posito e inteiro! - {e}''' 
     return resultado 
 
+# Função ere retonar multiplos de 5
 def multiplos5():
     
     try:
