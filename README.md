@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Python Professional
 
-
-**Initiation to Professional Python from the Mentorama programming school**
-=======
 # Mentorama
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
@@ -45,11 +40,9 @@ git clone https://github.com/GaabrielCoosta/PythonPro_Mod01
 # Enter the folder
 cd file
 
-# Choose the desired platform folder
-cd Cursoemvideo
-cd Mentorama/POO/Projeto3
+# Clone Files
+Open the file folder in your preferred IDE
+It is necessary that the two files.py are in the same folder
 
-# Open pdf file
-Choose the problem to be solved and run the corresponding .py file
 ```
->>>>>>> 23d6fb78a6e21ff1cf9d6d652b73ec0542472e19
+
