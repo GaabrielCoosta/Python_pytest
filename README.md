@@ -1,10 +1,12 @@
 
-# Mentorama
+# Ⓜ️ Mentorama
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
 ![NPM](https://img.shields.io/static/v1?label=Python&message=3.10&color=<COLOR>&logo=python)
 
+
 - *In this repository I will be making available a challenge proposed by the programming school*
+  - https://mentorama.com.br/
 
 
 ![channels4_profile](https://user-images.githubusercontent.com/108695592/227055789-650ba70f-4843-48b9-8559-4de393d3447b.jpg)
@@ -18,7 +20,7 @@
   - Modulation, packages and imports
   - TDD and Unit Testing
   
-**CHALLENGE**:
+**📚CHALLENGE**:
 
 Develop an application with the following characteristics:
   - The application asks the user to enter a natural number
@@ -45,5 +47,10 @@ Open the file folder in your preferred IDE
 It is necessary that the two files.py are in the same folder
 
 ```
+# *👍Emphasis*
+- Excellent teaching, especially for beginners;
+- Good balance between theory and practice;
+- Hill exercises to put into practice and learn more;
 
-  - https://mentorama.com.br/
+
+
