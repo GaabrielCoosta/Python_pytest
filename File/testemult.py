@@ -3,7 +3,9 @@ import pytest
 # importação das funções da biblioteca criada para verificação de multimos "Verificanum"
 from verificanum import multiplos_ambos, multiplos_vazio, multiplos5, multiplos7
 
+# Utilizei a função pyteste para testar erros possiveis nas funções 
 
+# Criação do objeto para teste das funções 
 class test_multiplos:
     def setup_method(self):
         pass
