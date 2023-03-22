@@ -1,6 +1,7 @@
 """Criação das funções responsáveis pela verificação. A função retornar se os números inseridos pelo usuário correspondem ou não
 a serem multiplos de 7 ou 5 """
 
+# Função ere retonar multiplos de 5 e 7
 def multiplos_ambos():
     
     try:
