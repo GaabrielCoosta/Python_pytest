@@ -58,6 +58,7 @@ def multiplos7():
         Por favor, digite um número posito e inteiro! - {e}''' 
     return resultado 
 
+# # Função que retonar multiplos não encontrados
 def multiplos_vazio():
     
     try:
@@ -73,4 +74,4 @@ def multiplos_vazio():
         Por favor, digite um número posito e inteiro! - {e}''' 
     return resultado
 
-multiplos5()
+
