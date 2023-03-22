@@ -12,7 +12,7 @@
 
 
 
-- *Challenge proposed by Mentorama Programming School*
+Ⓜ️ *Challenge proposed by Mentorama Programming School*
 
 ### Knowledge obtained:
   - Modulation, packages and imports
