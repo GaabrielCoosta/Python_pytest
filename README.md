@@ -4,20 +4,21 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
 ![NPM](https://img.shields.io/static/v1?label=Python&message=3.10&color=<COLOR>&logo=python)
 
-
-- *In this repository I will be making available a challenge proposed by the programming school*
-  - https://mentorama.com.br/
-
-
+   
 ![Captura de Tela 2023-03-23 às 08 44 18](https://user-images.githubusercontent.com/108695592/227194380-10bbd921-0cf5-4917-8347-6c8b6c511ed4.png)
 
+**TDD Cycles:**
 
+**Note the existence of three cycles:**
 
-Ⓜ️ *Challenge proposed by Mentorama Programming School*
-
-### Knowledge obtained:
-  - Modulation, packages and imports
-  - TDD and Unit Testing
+  - Red: write a small automated test that, when run, will fail;
+  - Green: Implement code that is sufficient to pass the newly written test;
+  - Refactor: refactor the code in order to improve it, making it more functional and cleaner.
+  
+  
+  
+  
+  
   
 **📚CHALLENGE**:
 
