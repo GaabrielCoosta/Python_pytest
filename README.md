@@ -11,9 +11,9 @@
 
 **Note the existence of three cycles:**
 
-  - Red: write a small automated test that, when run, will fail;
-  - Green: Implement code that is sufficient to pass the newly written test;
-  - Refactor: refactor the code in order to improve it, making it more functional and cleaner.
+  - **Red**: write a small automated test that, when run, will fail;
+  - **Green**: Implement code that is sufficient to pass the newly written test;
+  - **Refactor**: refactor the code in order to improve it, making it more functional and cleaner.
   
   
   
