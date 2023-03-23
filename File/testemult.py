@@ -6,21 +6,15 @@ importação das funções da biblioteca criada para verificação de multimos "
 
 import pytest
 # Importação da biblioteca pytest
-
 from verificanum import multiplos_ambos, multiplos_vazio, multiplos5, multiplos7
 # importação das funções da biblioteca criada para verificação de multimos "Verificanum"
 
-<<<<<<< HEAD
 
-
-=======
 """ 
 Criação do objeto que testa todas as funções para verificar as funções criadas
 """
 class test_multiplos:
-    """ 
-    Criação do objeto para teste das funções 
-    """
+    
     def setup_method(self):
         pass
     
