@@ -1,77 +1,86 @@
-"""Criação das funções responsáveis pela verificação. A função retornar se os números inseridos pelo usuário correspondem ou não
-a serem multiplos de 7 ou 5 """
+"""Criação das funções responsáveis pela verificação. 
+A função retornar se os números inseridos pelo usuário 
+correspondem ou não a serem multiplos de 7 ou 5 """
 
-# Função que retona multiplos de 5 e 7
+
 def multiplos_ambos():
-    
+    """
+    Função que retorna multiplos de 5 e 7
+    """
     try:
-        a = int(input("Digite um número natural: "))
-        
+
+        a = int(input('Digite um número natural: '))        
         if (a % 5 == 0) and (a % 7 == 0):
             resultado = print('fizzbuzz')
             return resultado
-        
-        else:
-            resultado = print('Nuúmero digitado não é multiplo de 5 e nem de 7!')
+
+        else :
+            resultado = print(
+                'Nuúmero digitado não é multiplo de 5 e nem de 7!')
             return resultado
-    
-    except TypeError as e:
-        resultado = f'''Você precisa informar um número natural.
-        Por favor, digite um número posito e inteiro! - {e}''' 
+    except TypeError as e :
+        resultado = f'''
+        Você precisa informar um número natural.
+        Por favor, digite um número posito e inteiro! - {e}
+        ''' 
     return resultado 
 
-# Função que retonar multiplos de 5
+
 def multiplos5():
-    
+    """ 
+    Função que retonar multiplos de 5
+    """
     try:
-        a = int(input("Digite um número natural: "))
-        
+        a = int(input('Digite um número natural: '))
         if a % 5 == 0:
             resultado = print('fizz')
             return resultado
-        
-        else:
+        else :
             resultado = print('Número digitado não é multiplo de 5!')
             return resultado
-    
-    except TypeError as e:
+
+    except TypeError as e : 
         resultado = f'''Você precisa informar um número natural.
         Por favor, digite um número posito e inteiro! - {e}'''
     return resultado 
 
 
-# Função que retona multiplos de 7
 def multiplos7():
-    
+    """
+    Função que retona multiplos de 7
+    """
     try:
-        a = int(input("Digite um número natural: "))
-        
-        if a % 7 == 0:
-            resultado = print('buzz')
+        a = int(input('Digite um número natural: '))
+        if a % 7 == 0 :
+            resultado=print('buzz')
             return resultado
         else:
-            resultado = print('Número digitado não é multiplo de 7!')
+            resultado = print(
+                'Número digitado não é multiplo de 7!')
             return resultado
-    
-    except TypeError as e:
+    except TypeError as e :
         resultado = f'''Você precisa informar um número natural.
         Por favor, digite um número posito e inteiro! - {e}''' 
+
     return resultado 
 
-# # Função que retonar multiplos não encontrados
-def multiplos_vazio():
-    
+
+def multiplos_vazio(): 
+    """
+    Função que retona multiplos não encontrados
+    """
     try:
-        a = int(input("Digite um número natural: "))
-        
+        a = int(input('Digite um número natural: '))  
         if (a % 7 != 0) and (a % 5 != 0):
             resultado = print('miss')
-            return resultado
-        
-    
+            return resultado  
+
     except TypeError as e:
-        resultado = f'''Você precisa informar um número natural.
-        Por favor, digite um número posito e inteiro! - {e}''' 
+        resultado = f'''
+        Você precisa informar um número natural.
+        Por favor, digite um número posito e inteiro! - {e}
+        ''' 
+
     return resultado
 
 
