@@ -18,7 +18,7 @@ class test_multiplos:
     def setup_method(self):
         pass
     
-    
+    # função que retorna o teste dos multiplos de 5
     def test_multiplos5(self):
         resultado1 = multiplos5()
         assert resultado1  ==  'fizz'
