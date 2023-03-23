@@ -16,6 +16,7 @@
   - **Refactor**: refactor the code in order to improve it, making it more functional and cleaner.
   
   
+To perform testing on each feature of your code, you will always follow these cycles. These cycles are commonly referred to as red-green-refactor or red-green-blue.
   
   
   
